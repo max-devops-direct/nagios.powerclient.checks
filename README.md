@@ -1,0 +1,1 @@
+# nagios.powerclient.checks
